@@ -56,11 +56,7 @@ Pandas
 
 ONNX Runtime
 
-Installation
-Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
 Install dependencies:
 
 pip install opencv-python insightface faiss-cpu numpy pandas onnxruntime
