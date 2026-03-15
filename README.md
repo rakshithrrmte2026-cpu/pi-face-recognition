@@ -111,4 +111,4 @@ Improved tracking to reduce redundant inference
 
 Mobile interface for field deployment
 
-Author
+Author Rakshith R R
