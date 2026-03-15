@@ -1,0 +1,7 @@
+opencv-python
+insightface
+faiss-cpu
+numpy
+pandas
+onnxruntime
+picamera2
